@@ -10,7 +10,8 @@
   "dependencies": {
     "next": "latest",
     "react": "^16.1.0",
-    "react-dom": "^16.1.0"
+    "react-dom": "^16.1.0",
+    "styled-jsx": "2.2.1"
   },
   "devDependencies": {
     "@types/next": "^2.4.5",
