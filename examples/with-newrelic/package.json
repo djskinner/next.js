@@ -1,0 +1,18 @@
+{
+  "name": "with-newrelic",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "http": "0.0.0",
+    "newrelic": "4.2.1",
+    "next": "6.1.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "url": "0.11.0"
+  },
+  "license": "ISC"
+}
