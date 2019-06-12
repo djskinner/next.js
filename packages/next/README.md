@@ -1898,10 +1898,10 @@ TypeScript is supported out of the box in Next.js. To get started using it creat
 }
 ```
 
-After adding the `tsconfig.json` you need to install `@types` to get proper TypeScript typing.
+After adding the `tsconfig.json` you need to install `typescript` if you haven't already, and some `@types` to get proper TypeScript typing.
 
 ```bash
-npm install --save-dev @types/react @types/react-dom @types/node
+npm install --save-dev typescript @types/react @types/react-dom @types/node
 ```
 
 Now can change any file from `.js` to `.ts` / `.tsx` (tsx is for files using JSX). To learn more about TypeScript checkout out its [documentation](https://www.typescriptlang.org/).
